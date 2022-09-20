@@ -1,0 +1,34 @@
+{
+  "name": "nativebase",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "native-base": "3.3.0-rc.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native-safe-area-context": "3.1.9",
+    "react-native-svg": "9.3.7",
+    "react-native-web": "0.17.1",
+    "react-scripts": "4.0.0",
+    "react-svg": "14.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
